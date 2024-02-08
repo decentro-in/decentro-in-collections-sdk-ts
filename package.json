@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/decentro-in/decentro-in-collections-sdk/tree/master/typescript"
+    "url": "https://github.com/decentro-in/decentro-in-collections-sdk-ts/tree/master"
   },
   "keywords": [
     "axios",
